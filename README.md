@@ -20,3 +20,7 @@ The main objective is to collect 10 coins while avoiding the enemies.
 🔴 Hit an enemy → Lose one life.
 🏆 Reach 10 coins → You Win!
 💀 Lose all 3 lives → Game Over!
+----
+## 🎮 Play the Game 
+[click Here to play 🎮] ()
+
